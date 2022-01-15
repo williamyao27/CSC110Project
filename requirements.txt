@@ -1,0 +1,4 @@
+python-ta
+pandas
+nltk
+plotly
